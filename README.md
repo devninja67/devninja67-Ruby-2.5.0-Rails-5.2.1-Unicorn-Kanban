@@ -1,1 +1,0 @@
-# devninja67-Ruby-2.5.0-Rails-5.2.1-Unicorn-Kanban
